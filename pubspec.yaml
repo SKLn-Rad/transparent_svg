@@ -1,7 +1,6 @@
 name: transparent_svg
 description: A transparent svg image used in the same way as transparent_image
 version: 1.0.0
-author: Ryan Dixon
 homepage: https://github.com/SKLn-Rad
 
 environment:
