@@ -2,6 +2,8 @@ library transparent_svg;
 
 import 'dart:typed_data';
 
+/// Data representing a transparent SVG asset.
+/// Use with [SVGPicture.memory(kTransparentSvg)]
 final Uint8List kTransparentSvg = Uint8List.fromList(
   <int>[
     60,
